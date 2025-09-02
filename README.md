@@ -56,11 +56,11 @@
 
 ---
 <h2 align="center">📊 GitHub Stats 📊</h2>
-<p align="left">
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=mohamedosama&show_icons=true&theme=react&hide_border=true" />
+    <img width="350" src="https://github-readme-stats.vercel.app/api?username=mohamedosama&show_icons=true&theme=react&hide_border=true" />
   </a>
-  <a align="right" href="https://github.com/denvercoder1/github-readme-streak-stats">
+  <a  href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img width="390" src="https://streak-stats.demolab.com/?user=mohamedosama&theme=react&hide_border=true" />
   </a>
 </p>
