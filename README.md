@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  Hi, I'm Mohamed Osama — A passionate <b>MERN Stack Developer</b> from Egypt.
+  Hi, I'm Mohamed Osama — A passionate <b>MERN Full stack Developer</b> from Egypt.
   <br>
   <br>
   🚀 I build full-stack web applications using <b>MongoDB, Express.js, React.js, Node.js</b>
