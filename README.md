@@ -45,7 +45,7 @@
   <code><img title="HTML5" height="25" src="images/html5.png"></code>
   <code><img title="CSS3" height="25" src="images/css.png"></code>
   <code><img title="TailwindCSS" height="25" src="images/tailwind.png"></code>
-  <code><img title="Bootstrap" height="25" src="images/bootstrap.jpeg"></code>
+  <code><img title="Bootstrap" height="25" src="images/bootstrap.png"></code>
   <code><img title="Git" height="25" src="images/git.png"></code>
   <code><img title="GitHub" height="25" src="images/github.png"></code>
   <code><img title="npm" height="25" src="images/npm.png"></code>
