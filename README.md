@@ -7,9 +7,9 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/YOUR_LINKEDIN" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="mailto:YOUR_EMAIL@gmail.com" title="Email"><img width="22" src="images/gmail.svg"> Email</a></code>
-  <code><a href="https://github.com/YOUR_GITHUB" title="GitHub Profile"><img width="22" src="images/github.svg"> GitHub</a></code>
+  <code><a href="https://www.linkedin.com/in/mohamed-osama10710/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="mailto:mo5709813@gmail.com" title="Email"><img width="22" src="images/gmail.svg"> Email</a></code>
+  <code><a href="https://github.com/mohamedosama" title="GitHub Profile"><img width="22" src="images/github.svg"> GitHub</a></code>
 </h5>
 
 ---
@@ -26,7 +26,7 @@
   <br>
   🎯 Goal: Create scalable and high-performance applications
   <br>
-  💬 Ask me anything <a href="https://github.com/YOUR_GITHUB/YOUR_GITHUB/issues" title="Issues">here</a>
+  💬 Ask me anything <a href="https://github.com/mohamedosama/mohamedosama/issues" title="Issues">here</a>
 </p>
 
 ---
@@ -54,31 +54,31 @@
 <h2 align="center">📊 GitHub Stats 📊</h2>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=react&hide_border=true" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohamedosama&show_icons=true&theme=react&hide_border=true" />
   </a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img width="48%" src="https://streak-stats.demolab.com/?user=YOUR_GITHUB&theme=react&hide_border=true" />
+    <img width="48%" src="https://streak-stats.demolab.com/?user=mohamedosama&theme=react&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB&theme=react-dark&bg_color=20232a&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedosama&theme=react-dark&bg_color=20232a&hide_border=true" />
 </p>
 
 ---
 
 <h2 align="center">📌 Featured Projects 📌</h2>
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB/MERN-Ecommerce" title="MERN E-Commerce">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB&repo=MERN-Ecommerce&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/mohamedosama/MERN-Ecommerce" title="MERN E-Commerce">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedosama&repo=MERN-Ecommerce&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a href="https://github.com/YOUR_GITHUB/ChatApp-MERN" title="Real-time Chat App">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB&repo=ChatApp-MERN&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/mohamedosama/ChatApp-MERN" title="Real-time Chat App">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedosama&repo=ChatApp-MERN&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 
 ---
 
 <h4 align="center">
-  <a href="https://github.com/YOUR_GITHUB?tab=repositories" title="Show More Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/mohamedosama?tab=repositories" title="Show More Repositories">🔎 Show More 🔍</a>
 </h4>
