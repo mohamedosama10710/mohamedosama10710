@@ -66,8 +66,11 @@
   </a>
 </p>
 
+### 📊 Top Languages
+
+
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedosama&theme=react-dark&bg_color=20232a&hide_border=true" />
+  <img width="100%" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedosama10710&layout=compact&theme=radical)" />
 </p>
 
 ---
