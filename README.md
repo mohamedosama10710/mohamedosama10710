@@ -27,6 +27,8 @@
   🎯 Goal: Create scalable and high-performance applications
   <br>
   💬 Ask me anything <a href="https://github.com/mohamedosama10710/mohamedosama10710/issues" title="Issues">here</a>
+  <br>
+  📫 How to reach me:<a href="mailto:mo5709813@gmail.com">mo5709813@gmail.com</a>
 </p>
 
 ---
