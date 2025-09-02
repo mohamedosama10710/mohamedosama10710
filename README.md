@@ -33,7 +33,7 @@
 
 <h2 align="center">🛠 Languages & Tools 🛠</h2>
 <p align="center">
-  <code><img title="c++" height="25" src="images/cpp.svg"></code>
+  <code><img title="c++" height="25" src="images/cpp.png"></code>
   <code><img title="JavaScript" height="25" src="images/javascript.png"></code>
   <code><img title="TypeScript" height="25" src="images/typescript.png"></code>
   <code><img title="jQuery" height="25" src="images/jquery-original.svg"></code>
@@ -42,7 +42,7 @@
   <code><img title="Node.js" height="25" src="images/nodejs.png"></code>
   <code><img title="Express.js" height="25" src="images/express.png"></code>
   <code><img title="MongoDB" height="25" src="images/mongo.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.png"></code>
+  <code><img title="HTML5" height="25" src="images/html.png"></code>
   <code><img title="CSS3" height="25" src="images/css.png"></code>
   <code><img title="TailwindCSS" height="25" src="images/tailwind.png"></code>
   <code><img title="Bootstrap" height="25" src="images/bootstrap.png"></code>
