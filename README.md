@@ -26,7 +26,7 @@
   <br>
   🎯 Goal: Create scalable and high-performance applications
   <br>
-  💬 Ask me anything <a href="https://github.com/mohamedosama/mohamedosama/issues" title="Issues">here</a>
+  💬 Ask me anything <a href="https://github.com/mohamedosama10710/mohamedosama10710/issues" title="Issues">here</a>
 </p>
 
 ---
