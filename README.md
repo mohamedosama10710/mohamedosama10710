@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mohamedosama.mohamedosama">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mohamedosama10710.mohamedosama10710">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -9,7 +9,7 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/mohamed-osama10710/" title="LinkedIn Profile"><img width="22" src="images/linkedin.png"> LinkedIn</a></code>
   <code><a href="mailto:mo5709813@gmail.com" title="Email"><img width="22" src="images/gmail.png"> Email</a></code>
-  <code><a href="https://github.com/mohamedosama" title="GitHub Profile"><img width="22" src="images/github.png"> GitHub</a></code>
+  <code><a href="https://github.com/mohamedosama10710" title="GitHub Profile"><img width="22" src="images/github.png"> GitHub</a></code>
 </h5>
 
 ---
@@ -47,7 +47,7 @@
   <code><img title="HTML5" height="25" src="images/html.png"></code>
   <code><img title="CSS3" height="25" src="images/css.png"></code>
   <code><img title="TailwindCSS" height="25" src="images/tailwind.png"></code>
-  <code><img title="Bootstrap" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"></code>
+  <code><img title="Bootstrap" height="25" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></code>
   <code><img title="Git" height="25" src="images/git.png"></code>
   <code><img title="GitHub" height="25" src="images/github.png"></code>
   <code><img title="npm" height="25" src="images/npm.png"></code>
@@ -58,35 +58,23 @@
 
 <h2 align="center">📊 GitHub Stats 📊</h2>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohamedosama10710&show_icons=true&theme=react&hide_border=true&rank_icon=github" />
-  </a>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img width="48%" src="https://streak-stats.demolab.com?user=mohamedosama10710&theme=react&hide_border=true&date_format=M%20j" />
-  </a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohamedosama10710&show_icons=true&theme=react&hide_border=true&rank_icon=github" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=mohamedosama10710&theme=react&hide_border=true&date_format=M%20j" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedosama10710&layout=compact&theme=react&hide_border=true" />
-  </a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedosama10710&layout=compact&theme=react&hide_border=true" />
 </p>
-
-
-
-
-
-
 
 ---
 
 <h2 align="center">📌 Featured Projects 📌</h2>
 <div align="center">
-  <a href="https://github.com/mohamedosama/MERN-Ecommerce" title="MERN E-Commerce">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedosama&repo=MERN-Ecommerce&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/mohamedosama10710/MERN-Ecommerce" title="MERN E-Commerce">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedosama10710&repo=MERN-Ecommerce&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a href="https://github.com/mohamedosama/ChatApp-MERN" title="Real-time Chat App">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedosama&repo=ChatApp-MERN&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/mohamedosama10710/ChatApp-MERN" title="Real-time Chat App">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedosama10710&repo=ChatApp-MERN&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 
