@@ -36,7 +36,7 @@
   <code><img title="c++" height="25" src="images/cpp.png"></code>
   <code><img title="JavaScript" height="25" src="images/javascript.png"></code>
   <code><img title="TypeScript" height="25" src="images/typescript.png"></code>
-  <code><img title="jQuery" height="25" src="images/jquery.png"></code>
+  <code><img title="jQuery" height="25" src="images/https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmLME0hpAJOqBGhaVjcgkk8hIKS3S4GAqrLg&s"></code>
   <code><img title="React" height="25" src="images/react.png"></code>
   <code><img title="Redux" height="25" src="images/redux.png"></code>
   <code><img title="Node.js" height="25" src="images/nodejs.png"></code>
