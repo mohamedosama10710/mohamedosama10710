@@ -66,12 +66,16 @@
   </a>
 </p>
 
-### 📊 Top Languages
-
-
 <p align="center">
-  <img width="100%" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedosama10710&layout=compact&theme=radical)" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedosama&layout=compact&theme=react&hide_border=true" />
+  </a>
 </p>
+
+
+
+
+
 
 ---
 
