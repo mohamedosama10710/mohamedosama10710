@@ -61,7 +61,7 @@
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohamedosama10710&show_icons=true&theme=react&hide_border=true" />
   </a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img width="48%" src="https://streak-stats.demolab.com/?user=mohamedosama10710&theme=react&hide_border=true" />
+    <img width="48%" src="https://streak-stats.demolab.com/?username=mohamedosama10710&theme=react&hide_border=true" />
   </a>
 </p>
 
