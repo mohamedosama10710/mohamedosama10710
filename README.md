@@ -7,9 +7,9 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/mohamed-osama10710/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="mailto:mo5709813@gmail.com" title="Email"><img width="22" src="images/gmail.svg"> Email</a></code>
-  <code><a href="https://github.com/mohamedosama" title="GitHub Profile"><img width="22" src="images/github.svg"> GitHub</a></code>
+  <code><a href="https://www.linkedin.com/in/mohamed-osama10710/" title="LinkedIn Profile"><img width="22" src="images/linkedin.png"> LinkedIn</a></code>
+  <code><a href="mailto:mo5709813@gmail.com" title="Email"><img width="22" src="images/gmail.png"> Email</a></code>
+  <code><a href="https://github.com/mohamedosama" title="GitHub Profile"><img width="22" src="images/github.png"> GitHub</a></code>
 </h5>
 
 ---
@@ -33,19 +33,22 @@
 
 <h2 align="center">🛠 Languages & Tools 🛠</h2>
 <p align="center">
-  <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
-  <code><img title="TypeScript" height="25" src="images/typescript.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Redux" height="25" src="images/redux.svg"></code>
-  <code><img title="Node.js" height="25" src="images/nodejs.svg"></code>
-  <code><img title="Express.js" height="25" src="images/express.svg"></code>
-  <code><img title="MongoDB" height="25" src="images/mongodb.svg"></code>
+  <code><img title="c++" height="25" src="images/cpp.svg"></code>
+  <code><img title="JavaScript" height="25" src="images/javascript.png"></code>
+  <code><img title="TypeScript" height="25" src="images/typescript.png"></code>
+  <code><img title="jQuery" height="25" src="images/jquery-original.svg"></code>
+  <code><img title="React" height="25" src="images/react.png"></code>
+  <code><img title="Redux" height="25" src="images/redux.png"></code>
+  <code><img title="Node.js" height="25" src="images/nodejs.png"></code>
+  <code><img title="Express.js" height="25" src="images/express.png"></code>
+  <code><img title="MongoDB" height="25" src="images/mongo.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS3" height="25" src="images/css.svg"></code>
-  <code><img title="TailwindCSS" height="25" src="images/tailwindcss.svg"></code>
-  <code><img title="Bootstrap" height="25" src="images/bootstrap.svg"></code>
+  <code><img title="TailwindCSS" height="25" src="images/tailwindcss.png"></code>
+  <code><img title="Bootstrap" height="25" src="images/bootstrap.jpeg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="VS Code" height="25" src="images/vscode.png"></code>
 </p>
 
