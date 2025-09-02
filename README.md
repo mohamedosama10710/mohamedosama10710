@@ -60,9 +60,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohamedosama10710&show_icons=true&theme=react&hide_border=true" />
   </a>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width="390" src="https://camo.githubusercontent.com/b7db72e6e3610f1fef17088b7c53a2e74e570d9dc577d446122663c333d5cc81/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d7a756d727564752d616e6b61267468656d653d726561637426626f726465723d36316461666226686964655f626f726465723d74727565" alt="zumrudu-anka" data-canonical-src="https://streak-stats.demolab.com/?user=zumrudu-anka&amp;theme=react&amp;border=61dafb&amp;hide_border=true" style="max-width: 100%;">
-    </a>
+ 
 </p>
 
 <p align="center">
