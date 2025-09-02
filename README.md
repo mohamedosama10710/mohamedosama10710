@@ -33,7 +33,7 @@
 
 ---
 
-<h2 align="center">🛠 Languages & Tools 🛠</h2>
+<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 <p align="center">
   <code><img title="c++" height="25" src="images/cpp.png"></code>
   <code><img title="JavaScript" height="25" src="images/javascript.png"></code>
@@ -74,7 +74,7 @@
 
 ---
 
-<h2 align="center">📌 Featured Projects 📌</h2>
+<h2 align="center">📌 👨‍💻 Repositories 👨‍💻 📌</h2>
 <div align="center">
   <a href="https://github.com/mohamedosama10710/MERN-Ecommerce" title="MERN E-Commerce">
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedosama10710&repo=MERN-Ecommerce&theme=react&border_color=61dafb&border_radius=10">
