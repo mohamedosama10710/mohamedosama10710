@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Mohamed+Osama;MERN+Stack+Developer;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Mohamed+Osama;Full+Stack+Developer;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  Hi, I'm Mohamed Osama — A passionate <b>MERN Full stack Developer</b> from Egypt.
+  Hi, I'm Mohamed Osama — A passionate <b>Full stack Developer</b> from Egypt.
   <br>
   <br>
   🚀 I build full-stack web applications using <b>MongoDB, Express.js, React.js, Node.js</b>
