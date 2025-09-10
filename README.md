@@ -75,7 +75,7 @@
 <h2 align="center">📌 👨‍💻 Repositories 👨‍💻 📌</h2>
 <div align="center">
   <a href="https://github.com/mohamedosama10710/landing-page" title="landing-page">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedosama10710&repo=MERN-Ecommerce&theme=react&border_color=61dafb&border_radius=10">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedosama10710&repo=landing-page&theme=react&border_color=61dafb&border_radius=10">
   </a>
   <a href="https://github.com/mohamedosama10710/ChatApp-MERN" title="Real-time Chat App">
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedosama10710&repo=ChatApp-MERN&theme=react&border_color=61dafb&border_radius=10">
