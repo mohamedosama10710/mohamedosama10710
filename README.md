@@ -50,6 +50,8 @@
   <code><img title="Bootstrap" height="25" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></code>
   <code><img title="Git" height="25" src="images/git.png"></code>
   <code><img title="GitHub" height="25" src="images/github.png"></code>
+  <code><img title="GitHub" height="25" src="https://www.svgrepo.com/show/354202/postman-icon.svg"></code>
+  
   <code><img title="npm" height="25" src="images/npm.png"></code>
   <code><img title="VS Code" height="25" src="images/vscode.png"></code>
 </p>
@@ -64,7 +66,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mohamedosama10710/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedosama10710&layout=compact&theme=react&hide_border=true" />
   </a>
 </p>
