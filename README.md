@@ -51,7 +51,6 @@
   <code><img title="Git" height="25" src="images/git.png"></code>
   <code><img title="GitHub" height="25" src="images/github.png"></code>
   <code><img title="GitHub" height="25" src="https://www.svgrepo.com/show/354202/postman-icon.svg"></code>
-  
   <code><img title="npm" height="25" src="images/npm.png"></code>
   <code><img title="VS Code" height="25" src="images/vscode.png"></code>
 </p>
