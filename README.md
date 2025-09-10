@@ -58,12 +58,14 @@
 ---
 <h2 align="center">📊 GitHub Stats 📊</h2>
 <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohamedosama10710&show_icons=true&theme=react&hide_border=true" />
-  
-      <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-          <img width="48%" src="https://streak-stats.demolab.com?user=mohamedosama10710&theme=react&hide_border=true&border_radius=5" />
-      </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohamedosama10710&show_icons=true&theme=react&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img width="48%" src="https://streak-stats.demolab.com?user=mohamedosama10710&theme=react&hide_border=true&border_radius=5" />
+  </a>
 </p>
+
 
 <p align="center">
   
