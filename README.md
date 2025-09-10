@@ -58,19 +58,19 @@
 ---
 <h2 align="center">📊 GitHub Stats 📊</h2>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohamedosama10710&show_icons=true&theme=react&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img width="48%" src="https://streak-stats.demolab.com?user=mohamedosama10710&theme=react&hide_border=true&border_radius=5" />
-  </a>
+ 
+    <img width="370" src="https://github-readme-stats.vercel.app/api?username=mohamedosama10710&show_icons=true&theme=react&hide_border=true&count_private=true" />
+  
+
+    <img width="390" src="https://streak-stats.demolab.com?user=mohamedosama10710&theme=react&hide_border=true&border_radius=5" />
+  
 </p>
 
 
 <p align="center">
   
 <img 
-      width="48%" 
+      width="390" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedosama10710&layout=compact&theme=react&hide_border=true&count_private=true&cache_seconds=1800" 
     />  
   
