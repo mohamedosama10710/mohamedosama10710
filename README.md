@@ -64,7 +64,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/mohamedosama10710/github-readme-stats">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedosama10710&layout=compact&theme=react&hide_border=true" />
   </a>
 </p>
