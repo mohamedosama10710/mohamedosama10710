@@ -88,6 +88,12 @@
   <a href="https://github.com/mohamedosama10710/Educational-app" title="EducationalApp">
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedosama10710&repo=Educational-app&theme=react&border_color=61dafb&border_radius=10">
   </a>
+  <a href="https://github.com/mohamedosama10710/landing-page1" title="EducationalApp">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedosama10710&repo=landing-page1&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a href="https://github.com/mohamedosama10710/Educational-app" title="EducationalApp">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedosama10710&repo=Educational-app&theme=react&border_color=61dafb&border_radius=10">
+  </a>
 </div>
 
 ---
