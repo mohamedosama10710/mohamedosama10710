@@ -41,6 +41,7 @@
   <code><img title="jQuery" height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmLME0hpAJOqBGhaVjcgkk8hIKS3S4GAqrLg&s"></code>
   <code><img title="React" height="25" src="images/react.png"></code>
   <code><img title="Redux" height="25" src="images/redux.png"></code>
+  <code><img title="Redux" height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7KipS2XtctKfRQGPviR0UZVQtUdISRw1wVg&s"></code>
   <code><img title="Node.js" height="25" src="images/nodejs.png"></code>
   <code><img title="Express.js" height="25" src="images/express.png"></code>
   <code><img title="MongoDB" height="25" src="images/mongo.png"></code>
