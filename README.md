@@ -59,14 +59,15 @@
 ---
 <h2 align="center">📊 GitHub Stats 📊</h2>
 <p align="center">
-  <a href="">
-    <img width="370" src="https://github-readme-stats.vercel.app/api?username=mohamedosama10710&show_icons=true&theme=react&hide_border=true&count_private=true" />
-  </a>
-  <a href="">
+   <a href="">
     <img width="390" src="https://streak-stats.demolab.com?user=mohamedosama10710&theme=react&hide_border=true&border_radius=5" />
   </a>
 </p>
 
+  <a href="">
+    <img width="370" src="https://github-readme-stats.vercel.app/api?username=mohamedosama10710&show_icons=true&theme=react&hide_border=true&count_private=true" />
+  </a>
+ 
 
 
 <p align="center">
