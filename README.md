@@ -74,7 +74,7 @@
 <p align="center">
   <a href="">
 <img 
-      width="390" 
+      width="380" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedosama10710&layout=compact&theme=react&hide_border=true&count_private=true&cache_seconds=1800" 
     />  
    </a>
