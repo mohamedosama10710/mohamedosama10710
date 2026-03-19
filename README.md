@@ -85,14 +85,14 @@
 
 <h2 align="center">📌 👨‍💻 Repositories 👨‍💻 📌</h2>
 <div align="center">
-  <a href="https://github.com/mohamedosama10710/landing-page" title="landing-page">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedosama10710&repo=landing-page&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/mohamedosama10710/movie-website" title="movie-website">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedosama10710&repo=movie-website&theme=react&border_color=61dafb&border_radius=10">
   </a>
   <a href="https://github.com/mohamedosama10710/Educational-app" title="EducationalApp">
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedosama10710&repo=Educational-app&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a href="https://github.com/mohamedosama10710/landing-page2" title="LandingPage">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedosama10710&repo=landing-page2&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/mohamedosama10710/BlogApp" title="Blog-App">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedosama10710&repo=BlogApp&theme=react&border_color=61dafb&border_radius=10">
   </a>
   <a href="https://github.com/mohamedosama10710/RestaurantApp" title="RestaurantApp">
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedosama10710&repo=RestaurantApp&theme=react&border_color=61dafb&border_radius=10">
