@@ -8,7 +8,7 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/mohamed-osama10710/" title="LinkedIn Profile"><img width="22" src="images/linkedin.png"> LinkedIn</a></code>
-  <code><a href="mailto:mo5709813@gmail.com" title="Email"><img width="22" src="images/gmail.png"> Email</a></code>
+  <code><a href="mailto:mohamedosama10710@gmail.com" title="Email"><img width="22" src="images/gmail.png"> Email</a></code>
   <code><a href="https://github.com/mohamedosama10710" title="GitHub Profile"><img width="22" src="images/github.png"> GitHub</a></code>
 </h5>
 
